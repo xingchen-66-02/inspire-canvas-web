@@ -1,7 +1,7 @@
 {
-  "name": "灵感画布",
-  "short_name": "灵感画布",
-  "description": "灵感画布 AI 图片创作工具",
+  "name": "最强生图",
+  "short_name": "最强生图",
+  "description": "最强生图 AI 图片创作工具",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",

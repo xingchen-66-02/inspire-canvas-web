@@ -1,8 +1,8 @@
 {
   "product": "inspire_canvas",
   "platform": "web",
-  "version": "1.2.7",
-  "build": 10,
+  "version": "1.2.8",
+  "build": 11,
   "channel": "stable",
-  "publishedAt": "2026-08-05T08:19:52.3270481+00:00"
+  "publishedAt": "2026-08-05T12:03:35.5543015+00:00"
 }
