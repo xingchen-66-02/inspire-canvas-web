@@ -1,4 +1,4 @@
-const CACHE_NAME = 'inspire-canvas-web-v1.2.8';
+const CACHE_NAME = 'inspire-canvas-web-v1.2.12-build15';
 const SHELL = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', (event) => {
